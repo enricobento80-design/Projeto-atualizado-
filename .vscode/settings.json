@@ -1,0 +1,15 @@
+{
+  "files.readonlyInclude": {
+    "**": true
+  },
+  "files.readonlyExclude": {
+    "lib/custom_code/**": true,
+    "lib/flutter_flow/custom_functions.dart": true,
+    "pubspec.yaml": true,
+    "lib/flutter_flow/function_changes.json": true,
+    ".vscode/settings.json": true,
+    "lib/pages/code/validar_c_p_f.dart": true,
+    "lib/pages/code/categorias_unicas.dart": true
+  },
+  "dart.flutterSdkPath": "c:\\Flutter\\Git\\ff_flutter_sdk\\flutter"
+}

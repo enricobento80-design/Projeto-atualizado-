@@ -1,0 +1,26 @@
+{
+  "lib/pages/code/validar_c_p_f.dart": {
+    "old_identifier_name": "validarCPF",
+    "new_identifier_name": "validarCPF",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "1e3d05652f4b976f2af4fdde1fa8839e4d3dcbcafdeece2632ea0a8e10f040c6",
+    "original_checksum": "1e3d05652f4b976f2af4fdde1fa8839e4d3dcbcafdeece2632ea0a8e10f040c6"
+  },
+  "lib/pages/code/categorias_unicas.dart": {
+    "old_identifier_name": "categoriasUnicas",
+    "new_identifier_name": "categoriasUnicas",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "362a0021de1fa17bda08d3a42991081f26fa2c4f02433ed315c0732982b3d6c4",
+    "original_checksum": "362a0021de1fa17bda08d3a42991081f26fa2c4f02433ed315c0732982b3d6c4"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "f5b17c0202b5916539fb4dbfc2546a614aa19d6c01bbfd638000b73c050c674e",
+    "original_checksum": "f5b17c0202b5916539fb4dbfc2546a614aa19d6c01bbfd638000b73c050c674e"
+  }
+}
